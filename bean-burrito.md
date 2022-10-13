@@ -16,7 +16,7 @@
 
 ## Steps
 1. Cook **rice**.
-2. Toss **rice**, **cilantro**, and juice from 1 **lime**.
+2. Toss **rice**, **cilantro**, and juice from **limes**.
 3. Saute **onion** 5 minutes until soft in **olive oil**.
 4. Add **garlic** to onion and cook additional minute.
 5. Reduce heat to medium low.
