@@ -1,5 +1,5 @@
 # Cabbage Pasta
-Invented somewhere in Albania by Eliza.
+Invented somewhere in Croatia hotspring town by Eliza.
 
 ## Ingredients
 * Cabbage 1/2
