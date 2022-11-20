@@ -2,17 +2,19 @@
 [Vegetarian Bean and Rice Burrito](https://www.thespruceeats.com/vegetarian-bean-and-rice-burrito-recipe-3378550) on thespruceeats.com
 
 ## Ingredients
-* 4 cups cooked rice
-* 4 tablespoons fresh cilantro, chopped
-* 2 limes, juiced
-* 1 medium onion, diced
-* 8 cloves garlic, minced
-* 3 tablespoons olive oil
-* 2 (15-ounce) can black beans (or pinto beans), drained
-* 2 tablespoon chili powder
-* 1 teaspoon ground cumin
-* Pinch salt
-* 4 (10-inch) large tortillas
+| Ingredient | Preparation | Quantity |
+| ---------- | ----------- | -------- |
+| Rice | rinse | 4 cups |
+| Cilantro | chop | 4 tbsp |
+| Lime | juice | 2 |
+| Tortillas | --- | 6 large |
+| Onion | dice | 1 medium |
+| Garlic | mince | 8 cloves |
+| Olive oil | --- | 3 tbsp |
+| Black beans | drain | 2 cans |
+| Chilli | powder | 2 tbsp |
+| Cumin | ground | 1 tsp |
+| Salt | --- | 1 pinch |
 
 ## Steps
 1. Cook **rice**.
