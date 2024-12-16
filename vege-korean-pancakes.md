@@ -1,4 +1,5 @@
 ### Yachejeon Recipe
+Double for a good amount
 
 #### Ingredients
 
