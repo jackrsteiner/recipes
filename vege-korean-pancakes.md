@@ -11,6 +11,7 @@ Double for a good amount
 | Carrot                   | 1/2 cup, grated  |
 | Snake Beans              | 1/2 cup, chopped into 1-inch pieces |
 | Green onions             | 1/2 cup, chopped          |
+| Kimchi/Pickled Mustar Greens | 1/4 cup, chopped |
 | Salt                     | 1/2 tsp             |
 | Pepper, black            | 1/4 tsp             |
 | Soy sauce                | 1 tbsp (for dipping)|
