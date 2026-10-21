@@ -26,13 +26,13 @@ Created with the help of ChatGPT.
 
 
 ## Steps
-1. Heat the **vegetable oil** in a large pan over medium heat.
-2. Add **cumin seeds** and let them sizzle for a few seconds until aromatic.
-3. Add the chopped **onions** and sauté until they become golden brown.
-4. Add minced **garlic**, **ginger**, and green **chilies**. Sauté for another 2-3 minutes.
-3. Add **turmeric** powder, **coriander** powder, **ground cumin**, and **paprika**. Stir well and cook for another minute to let the spices bloom.
-4. Add the crushed **tomatoes** to the pan and cook for about 5-7 minutes, allowing the flavors to meld.
-5. Add the **chickpeas** to the pan, stirring to coat them in the spice mixture.
-6. Add **water** to the pan and bring it to a simmer. Cook for about 10-15 minutes, allowing the sauce to thicken.
-7. Add **garam masala** and **salt**, stirring well to combine.
-8. Garnish with fresh **cilantro leaves** and a squeeze of **lemon** juice (if using).
+1. Heat 2 tsp **vegetable oil** in a large pan over medium heat.
+2. Add 1 tsp **cumin seeds** and let them sizzle for a few seconds until aromatic.
+3. Add 1 chopped **onion** and sauté until they become golden brown.
+4. Add 3 cloves minced **garlic**, 1 inch minced **ginger**, and 1 minced green **chili**. Sauté for another 2-3 minutes.
+3. Add 1 tsp **turmeric** powder, 1 tsp **coriander** powder, 1 tsp **ground cumin**, and 1 tsp **paprika**. Stir well and cook for another minute to let the spices bloom.
+4. Add 1 can crushed **tomatoes** to the pan and cook for about 5-7 minutes, allowing the flavors to meld.
+5. Add 1 can **chickpeas** to the pan, stirring to coat them in the spice mixture.
+6. Add 1 cup **water** to the pan and bring it to a simmer. Cook for about 10-15 minutes, allowing the sauce to thicken.
+7. Add 1 tsp **garam masala** and 1 tsp **salt**, stirring well to combine.
+8. Garnish with 1 bunch fresh **cilantro leaves** and the juice of 1 **lemon** (if using).
