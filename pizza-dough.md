@@ -12,9 +12,9 @@
 | Olive Oil | --- | 15 | g (about 1 tbsp) |
 
 ## Steps
-1. Mix **325 g warm water**, **15 g honey** (about 2 tsp), and **7 g instant dry yeast** (about 2¼ tsp). Leave for 5–10 minutes until the yeast becomes foamy.
-2. Stir **15 g olive oil** (about 1 tbsp) into the yeast mixture.
-3. In a separate bowl, mix **10 g salt** into **500 g flour**.
+1. Mix 325 g **warm water**, 15 g **honey** (about 2 tsp), and 7 g **instant dry yeast** (about 2¼ tsp). Leave for 5–10 minutes until the yeast becomes foamy.
+2. Stir 15 g **olive oil** (about 1 tbsp) into the yeast mixture.
+3. In a separate bowl, mix 10 g **salt** into 500 g **flour**.
 4. Add the wet mixture to the flour and mix until a rough dough forms.
 5. Knead for 7–10 minutes, until smooth and elastic.
 6. Cover and let rise somewhere warm for 1–1½ hours, until roughly doubled.
