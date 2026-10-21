@@ -9,5 +9,5 @@
 | Flour | --- | 3 | Cups |
 
 ## Steps
-1. Add the **salt** and stir.
+1. Add **1 tsp salt** and stir. Include the quantity with each ingredient in the steps, matching the table.
 2. 
