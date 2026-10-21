@@ -16,11 +16,11 @@
 | Soy sauce | --- | 1 | tbsp |
 
 ## Steps
-1. Cook **pasta**.
-2. Heat olive oil in a pan over medium heat.
-3. Add **onion** and cook until soft and translucent, about 5 minutes.
-4. Add **garlic** and cook for an additional minute.
-5. Food process **soy milk**, **cannellini beans**, **nutritional yeast**, and **soy sauce** until smooth.
+1. Cook 1 pack **pasta**.
+2. Heat 2 tbsp olive oil in a pan over medium heat.
+3. Add 1 finely chopped **onion** and cook until soft and translucent, about 5 minutes.
+4. Add 2 cloves minced **garlic** and cook for an additional minute.
+5. Food process 1 cup **soy milk**, ½ cup **cannellini beans**, 1/4 cup **nutritional yeast**, and 1 tbsp **soy sauce** until smooth.
 6. Pour the blended mixture into pan with the onion and garlic. Heat until warmed through and slightly thickened. If the sauce is too thick, you can add a bit more soy milk to reach your desired consistency.
 7. Season with salt and black pepper to taste.
 8. Add the cooked pasta to the pan with the sauce. Toss to coat the pasta evenly.

@@ -17,10 +17,10 @@
 | Salt | --- | 1 pinch |
 
 ## Steps
-1. Cook **rice**.
-2. Toss **rice**, **cilantro**, and juice from **limes**.
-3. Saute **onion** 5 minutes until soft in **olive oil**.
-4. Add **garlic** to onion and cook additional minute.
+1. Cook 4 cups **rice**.
+2. Toss **rice**, 4 tbsp **cilantro**, and juice from 2 **limes**.
+3. Saute 1 medium **onion** 5 minutes until soft in 3 tbsp **olive oil**.
+4. Add 8 cloves **garlic** to onion and cook additional minute.
 5. Reduce heat to medium low.
-6. Add **beans** and combine with the **chili powder**, **cumin**, and **salt**.
+6. Add 2 cans **beans** and combine with 2 tbsp **chili powder**, 1 tsp **cumin**, and 1 pinch **salt**.
 7. Cook addtional 5 minutes.
